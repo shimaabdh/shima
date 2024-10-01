@@ -1,0 +1,6 @@
+
+برنامج يقوم بطباعى الاعداد الزةجية من 10 الى 20
+
+for number in range(10, 21):
+    if number % 2 == 0:
+        print(number)
